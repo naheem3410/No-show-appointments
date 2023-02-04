@@ -16,3 +16,8 @@ from 100k medical appointments in Brazil. The following features about the patie
 * Handcap - Whether patient is an handicap or not
 * SMS_received - Whether patient received one or more text message or none
 * No-show - Whether patient shows up for appointment or not
+
+## Question(s) for Analysis
+* Factors that likely contribute to patients not able to show up for appointments
+* Does the interval between scheduled date and appointment date likely to affect patients from showing up for appointments
+* Which day(s) of the week does patient skip appointment most
